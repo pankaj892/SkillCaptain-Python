@@ -7,6 +7,7 @@ while number <= 10:
 print("Finished")
 print('-----------------------------')
 
+#Program using a for loop to iterate through a list of names and print them all
 names = ["Google","Microsoft","Facebook","Apple","IBM","Oracle","Amazon"]
 for name in names:
     print(f'Welcome to {name}!')
