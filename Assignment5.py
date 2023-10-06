@@ -5,6 +5,7 @@ while number <= 10:
     print(number)
     number = number + 1
 print("Finished")
+print('-----------------------------')
 
 names = ["Google","Microsoft","Facebook","Apple","IBM","Oracle","Amazon"]
 for name in names:
