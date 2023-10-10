@@ -1,26 +1,26 @@
 '''Python program that performs certain operations on a given dictionary.'''
 
 # Create a dictionary
-dict1 = {'a': 100, 'b': 200, 'c': 300}
+my_dict = {'a': 100, 'b': 200, 'c': 300}
 
 
 # Add key/value pairs in dictionary
-dict1['e'] = 500
-print(dict1)
+my_dict['e'] = 500
+print(my_dict)
 
 #Remove a key-value pair from a dictionary
-del dict1['a']
-print(dict1)
+del my_dict['a']
+print(my_dict)
 
 #Update a value of a key in a dictionary
-dict1['b'] = 400
-print(dict1)
+my_dict['b'] = 400
+print(my_dict)
 
 #Check if a given key already exists in a dictionary
-if 'b' in dict1:
-    print("Key b is present and value is: ", dict1['b'])
+if 'b' in my_dict:
+    print("Key b is present and value is: ", my_dict['b'])
 else:
     print("Key b is not present")
 
 #Print all the keys in a dictionary
-print(dict1.keys())
+print(my_dict.keys())
