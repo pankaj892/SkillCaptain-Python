@@ -10,4 +10,5 @@ print('-----------------------------')
 #Program using a for loop to iterate through a list of names and print them all
 names = ["Google","Microsoft","Facebook","Apple","IBM","Oracle","Amazon"]
 for name in names:
+    '''Function to iterate through a list of names and print them all'''
     print(f'Welcome to {name}!')
