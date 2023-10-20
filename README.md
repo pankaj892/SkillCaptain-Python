@@ -1,3 +1,3 @@
 # SkillCaptain-Python
 
-## Assignments for Skill Captain Python Track
+## Completed Assignments for Skill Captain Python Track
